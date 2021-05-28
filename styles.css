@@ -1,0 +1,35 @@
+body{
+    max-width: 200px;
+    margin: auto;
+    
+    padding: 5px;
+
+    
+}
+h1{
+    display: flex;
+    text-align: center;
+}
+a{
+    color: red;
+}
+.one{
+    border: 20px solid royalblue;
+}
+table{
+    border-radius: 25px;
+}
+p{
+    margin: 50px;
+    padding: 10px;
+}
+.fixed{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.hidecontent{
+    visibility: hidden;
+}
+tr td{
+    border-color:green;
+}
